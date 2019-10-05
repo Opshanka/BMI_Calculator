@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="label_weight">Weight(kg)</string>
+    <string name="label_height">Height(cm)</string>
+    <string name="label_value">0.0</string>
+    <string name="label_input_value">0.0</string>
+    <string name="label_BMI">BMI</string>
+    <string name="label_cal">Calculator</string>
+    <string name="label_wei">WEIGHT (KG)</string>
+    <string name="label_hei">HEIGHT (CM)</string>
+    <string name="label_kg">IN KGs</string>
+    <string name="label_cm">IN CMs</string>
+    <string name="label_calculate">Calculate</string>
+
+    <string name="label_status">Body Health Status</string>
+    <string name="label_status_severely_Underweight">severely Underweight</string>
+    <string name="label_status_Very_severely_Underweight">Very severely Underweight</string>
+    <string name="label_status_Underweight">Underweight</string>
+    <string name="label_status_Normal">Normal weight</string>
+    <string name="label_status_Overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I\n(Moderately Obese)</string>
+    <string name="obese_class_ii">Obese Class II\n(Severely Obese)</string>
+    <string name="obese_class_iii">Obese Class III\n(Very Severely Obese)</string>
+
+    <string name="label_button_convert">BMI Calculate</string>
+</resources>
